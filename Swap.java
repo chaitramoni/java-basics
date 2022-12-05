@@ -1,17 +1,18 @@
 class Swap
 {
-	public Static void main(String c[])
+	public static void main(String g[])
 	{
 	int a = 32,b = 56;
 	
 	int c;
-	b=c;
+	
 	c=a;
 	a=b;
+	b=c;
 	
-	System.out.println)(a);
+	System.out.println(a);
 	System.out.println(b);
-	)
+	
 	
 	}
 
