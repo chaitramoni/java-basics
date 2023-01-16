@@ -1,6 +1,10 @@
-package com.xworkz.listapp;
+package com.xworkz.sanitizeapp;
+
 
 import java.util.ArrayList;
+import java.util.List;
+
+
 
 public class MethodsOfList {
 	
@@ -41,4 +45,8 @@ public class MethodsOfList {
 		
 	}
 
-}
+
+
+	}
+
+
