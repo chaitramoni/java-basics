@@ -1,0 +1,3 @@
+com\xworkz\autowiredmaven\boot\Runner.class
+com\xworkz\autowiredmaven\configuration\SpringConfiguration.class
+com\xworkz\autowiredmaven\thing\HardwareShop.class
