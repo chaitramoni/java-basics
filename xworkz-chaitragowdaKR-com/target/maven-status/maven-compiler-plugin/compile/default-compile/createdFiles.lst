@@ -1,0 +1,5 @@
+com\xworkz\project\dto\ProjectDTO.class
+com\xworkz\project\controller\AjaxController.class
+com\xworkz\project\service\ProjectService.class
+com\xworkz\project\entity\ProjectEntity.class
+com\xworkz\project\repository\ProjectRepository.class
